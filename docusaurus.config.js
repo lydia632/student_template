@@ -7,7 +7,7 @@ const config = {
 
   future: {},
 
-  url: 'https://kennyofthesmith.github.io',
+  url: 'https://lydiali.github.io',
   baseUrl: '/student_template/',
   organizationName: 'kennyofthesmith',
   projectName: 'student_template',
