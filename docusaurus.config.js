@@ -7,7 +7,7 @@ const config = {
 
   future: {},
 
-  url: 'https://lydiali.github.io',
+  url: 'https://lydia632.github.io',
   baseUrl: '/student_template/',
   organizationName: 'lydia632',
   projectName: 'white-paper',
