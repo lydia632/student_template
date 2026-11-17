@@ -9,8 +9,8 @@ const config = {
 
   url: 'https://lydiali.github.io',
   baseUrl: '/student_template/',
-  organizationName: 'kennyofthesmith',
-  projectName: 'student_template',
+  organizationName: 'lydia632',
+  projectName: 'white-paper',
   trailingSlash: false,
   onBrokenLinks: 'throw',
 
